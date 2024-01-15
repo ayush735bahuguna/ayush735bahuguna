@@ -7,7 +7,7 @@
 - 📫 How to reach me **ayushbahuguna1122@gmail.com**
 
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="side svg" />
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="side svg" width="40%" />
 
 
 <h3 align="left">Connect with me:</h3>
