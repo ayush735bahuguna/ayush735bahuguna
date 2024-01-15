@@ -6,10 +6,6 @@
 - 💬 Ask me about **React / Next Js , MERN**
 - 📫 How to reach me **ayushbahuguna1122@gmail.com**
 
-
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="side svg" width="40%" />
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushbahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayushbahuguna" height="30" width="40" /></a>
