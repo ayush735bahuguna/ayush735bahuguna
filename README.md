@@ -3,9 +3,12 @@
 
 - 👨‍💻 All of my projects are available at [https://ayush0portfolio.vercel.app/](https://ayush0portfolio.vercel.app/)
 
-- 💬 Ask me about **React / Next Js**
-
+- 💬 Ask me about **React / Next Js , MERN**
 - 📫 How to reach me **ayushbahuguna1122@gmail.com**
+
+  ![image](https://github.com/ayush735bahuguna/ayush735bahuguna/assets/99062123/083bea4c-6247-4463-a6af-8b1125cde024)
+  <img src='https://github.com/ayush735bahuguna/ayush735bahuguna/assets/99062123/083bea4c-6247-4463-a6af-8b1125cde024' alt='side banner' </img>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
